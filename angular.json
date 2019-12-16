@@ -8,6 +8,9 @@
       "schematics": {
         "@schematics/angular:component": {
           "style": "scss"
+        },
+        "@schematics/angular:component": {
+          "lintFix": true
         }
       },
       "root": "",
